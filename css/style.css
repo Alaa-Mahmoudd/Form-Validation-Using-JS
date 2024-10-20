@@ -1,0 +1,24 @@
+.card {
+  border-radius: 10px;
+}
+
+.card h1 {
+  font-size: 32px;
+  color: #333;
+}
+
+.card p {
+  color: #777;
+}
+
+.btn-success {
+  background-color: #42b72a;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #36a420;
+}
+input {
+  width: 100%;
+}
